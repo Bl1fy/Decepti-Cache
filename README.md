@@ -1,13 +1,8 @@
 # DeceptiCache
 **DeceptiCache** is a tool designed to help detect **Web Cache Deception** vulnerabilities by automating payload execution.
 
-
 # Installation
 
-```
-go install github.com/Bl1fy/Decepti-Cache@latest
-```
-OR
 ```
 git clone https://github.com/Bl1fy/Decepti-Cache.git
 cd Decepti-Cache
